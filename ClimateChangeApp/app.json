@@ -1,0 +1,33 @@
+{
+    "expo": {
+      "name": "CarbonXP",
+      "description": "An interactive climate change education platofrm",
+      "slug": "carbonxp",
+      "privacy": "public",
+      "ios": {
+        "bundleIdentifier": "org.changeplusplus.CarbonXP",
+        "buildNumber": "1.0.6",
+        "supportsTablet": true,
+        "backgroundColor": "#73A388"
+      },
+      
+      "platforms": [
+        "ios"
+      ],
+      "version": "1.0.2",
+      "orientation": "portrait",
+      "icon": "./assets/CarbonXP_Logos/CarbonXP_FullCLogo-04.png",
+      "splash": {
+        "image": "./assets/CarbonXP_Logos/LoadingScreen_LightForeground.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#73A388"
+      },
+      "updates": {
+        "fallbackToCacheTimeout": 0
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "sdkVersion": "37.0.0"
+    }
+}
